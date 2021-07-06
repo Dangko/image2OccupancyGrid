@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libOPM_GENERATOR.so -o devel/lib/libOPM_GENERATOR.so CMakeFiles/OPM_GENERATOR.dir/src/opm_generator.cpp.o 

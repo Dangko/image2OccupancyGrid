@@ -1,0 +1,8 @@
+prefix=/home/dango/dango_file/planning study/image2opm/image2opm_ws/src/image2opm_pkg/cmake-build-debug/devel
+
+Name: image2opm_pkg
+Description: Description of image2opm_pkg
+Version: 0.0.0
+Cflags: -I/home/dango/dango_file/planning study/image2opm/image2opm_ws/src/image2opm_pkg/include
+Libs: -L${prefix}/lib -limage2opm_pkg
+Requires: 
